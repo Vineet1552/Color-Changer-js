@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#red {
+    height: 40px;
+    width: 80px;
+    background-color: #ff0000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#yellow {
+    height: 40px;
+    width: 80px;
+    background-color: #ffff00;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#green {
+    height: 40px;
+    width: 80px;
+    background-color: #008000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#pink {
+    height: 40px;
+    width: 80px;
+    background-color: #ffc0cb;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#purple {
+    height: 40px;
+    width: 80px;
+    background-color: #800080;
+    border-radius: 10px;
+    cursor: pointer;
+}
